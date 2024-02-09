@@ -1,2 +1,5 @@
+streamlit
+google-cloud-vertexai
 google-auth
-vertexai
+google-auth-oauthlib
+google-auth-httplib2

@@ -1,8 +1,9 @@
-import vertexai
+
 import streamlit as st
 import json
 from google.oauth2.service_account import Credentials
 from vertexai.language_models import TextGenerationModel
+import vertexai
 
 # Function to load language model
 def load_language_model():
